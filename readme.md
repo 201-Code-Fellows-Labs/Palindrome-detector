@@ -1,0 +1,1 @@
+https://nadyailinskiy.github.io/js_tutorial/palindrome.html? 
