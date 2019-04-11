@@ -1,1 +1,1 @@
-https://nadyailinskiy.github.io/js_tutorial/palindrome.html? 
+https://nadyailinskiy.github.io/js_tutorial/
