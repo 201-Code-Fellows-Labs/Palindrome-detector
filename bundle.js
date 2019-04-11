@@ -8,10 +8,10 @@ function palindromeTester() {
   
     if (phrase.palindrome()) {
       palindromeResult.innerHTML = `"${phrase.content}" is a palindrome!`;
-      //event.preventDefault();
+      event.preventDefault();
     } else {
       palindromeResult.innerHTML = `"${phrase.content}" is not a palindrome.`;
-      //event.preventDefault();
+      event.preventDefault();
     }
   }
   
